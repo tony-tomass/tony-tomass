@@ -1,5 +1,4 @@
 
-<image src="https://github.com/tony-tomass/tony-tomass/blob/main/banner2.png">
 
 <!--
 ## Hi there 👋
